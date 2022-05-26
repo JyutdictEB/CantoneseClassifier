@@ -1,6 +1,6 @@
 # iNTRODUCTION
 
-a model than classify Cantonese & Mandarin
+a model that can classify Cantonese & Mandarin
 
 Download Pretrained model from realease.
 
